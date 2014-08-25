@@ -1,0 +1,7 @@
+D:\MyProgram\GitHub\DeveloperExpress\DeveloperExpress\bin\Debug\DeveloperExpress.exe
+D:\MyProgram\GitHub\DeveloperExpress\DeveloperExpress\bin\Debug\DeveloperExpress.pdb
+D:\MyProgram\GitHub\DeveloperExpress\DeveloperExpress\obj\x86\Debug\DeveloperExpress.Properties.Resources.resources
+D:\MyProgram\GitHub\DeveloperExpress\DeveloperExpress\obj\x86\Debug\DeveloperExpress.csproj.GenerateResource.Cache
+D:\MyProgram\GitHub\DeveloperExpress\DeveloperExpress\obj\x86\Debug\DeveloperExpress.exe
+D:\MyProgram\GitHub\DeveloperExpress\DeveloperExpress\obj\x86\Debug\DeveloperExpress.pdb
+D:\MyProgram\GitHub\DeveloperExpress\DeveloperExpress\obj\x86\Debug\DeveloperExpress.Form1.resources
